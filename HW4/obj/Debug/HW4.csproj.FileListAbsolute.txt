@@ -1,0 +1,14 @@
+D:\P21017\nickky2010\C# .NET\HW4\HW4\obj\Debug\HW4.csprojResolveAssemblyReference.cache
+D:\P21017\nickky2010\C# .NET\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+D:\P21017\nickky2010\C# .NET\HW4\HW4\bin\Debug\HW4.exe.config
+D:\P21017\nickky2010\C# .NET\HW4\HW4\bin\Debug\HW4.exe
+D:\P21017\nickky2010\C# .NET\HW4\HW4\bin\Debug\HW4.pdb
+D:\P21017\nickky2010\C# .NET\HW4\HW4\obj\Debug\HW4.exe
+D:\P21017\nickky2010\C# .NET\HW4\HW4\obj\Debug\HW4.pdb
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW4\HW4\bin\Debug\HW4.exe.config
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW4\HW4\bin\Debug\HW4.exe
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW4\HW4\bin\Debug\HW4.pdb
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW4\HW4\obj\Debug\HW4.csprojAssemblyReference.cache
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW4\HW4\obj\Debug\HW4.exe
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW4\HW4\obj\Debug\HW4.pdb
